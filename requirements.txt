@@ -1,0 +1,5 @@
+streamlit
+googletrans-py
+gtts
+PyPDF2
+requests
